@@ -12,7 +12,6 @@ A Java console application that demonstrates efficient sorted data structure imp
 - [Documentation](#documentation)
 - [Project Structure](#project-structure)
 - [Code Reuse Philosophy](#code-reuse-philosophy)
-- [Contributing](#contributing)
 - [License](#license)
 - [Author](#author)
 

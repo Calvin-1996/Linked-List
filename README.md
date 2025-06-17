@@ -174,6 +174,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Calvin Malagon**
 - Course: CSC6301 - Module 4
 - Email: [malagonc@merrimack.edu](mailto:malagonc@merrimack.edu)
-- GitHub: [@Cal9233](https://github.com/Cal9233)
+- GitHub: [@Calvin-1996](https://github.com/Calvin-1996)
 
 ---
